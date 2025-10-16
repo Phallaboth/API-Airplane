@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "image":"https://cdn.pixabay.com/photo/2020/06/02/06/29/ryanair-5249631_1280.jpg" ,
+        "name":"Air Plane1",
+        "price":1000,
+        "description":"A plane (informally an aeroplane or airplane) is a powered, fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller or rocket engine. Airplanes come in a variety of sizes, shapes, and wing configurations. The broad spectrum of uses for airplanes includes recreation, transportation of goods and people, military, and research. ",
+        "category":"vehicle"
+    },
+
+    {
+        "id":2,
+        "image":"https://cdn.pixabay.com/photo/2018/04/01/22/39/airplane-3282404_1280.jpg" ,
+        "name":"Air Plane2",
+        "price":1500,
+        "description":"A plane (informally an aeroplane or airplane) is a powered, fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller or rocket engine. Airplanes come in a variety of sizes, shapes, and wing configurations. The broad spectrum of uses for airplanes includes recreation, transportation of goods and people, military, and research. ",
+        "category":"vehicle"
+    },
+
+    {
+        "id":3,
+        "image":"https://cdn.pixabay.com/photo/2021/12/05/12/06/plane-6847525_1280.jpg" ,
+        "name":"Air Plane3",
+        "price":3000,
+        "description":"A plane (informally an aeroplane or airplane) is a powered, fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller or rocket engine. Airplanes come in a variety of sizes, shapes, and wing configurations. The broad spectrum of uses for airplanes includes recreation, transportation of goods and people, military, and research. ",
+        "category":"vehicle"
+    },
+    
+    {
+        "id":4,
+        "image":"https://cdn.pixabay.com/photo/2021/12/05/12/06/plane-6847525_1280.jpg" ,
+        "name":"Air Plane4",
+        "price":5000,
+        "description":"A plane (informally an aeroplane or airplane) is a powered, fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller or rocket engine. Airplanes come in a variety of sizes, shapes, and wing configurations. The broad spectrum of uses for airplanes includes recreation, transportation of goods and people, military, and research. ",
+        "category":"vehicle"
+    }
+]
