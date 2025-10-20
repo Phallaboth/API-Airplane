@@ -5,7 +5,7 @@ fetch("https://phallaboth.github.io/API-Airplane/data.json")
     item.forEach(i => {
         show += `
         <div class="row">
-            <div class="col">
+            <div class="col-lg-3 d-flex justify-content-center">
                 <div class="card" style="width: 18rem; height:500px">
                     <img src="${i.image}" class="card-img-top" alt="...">
                     <div class="card-body">

@@ -33,5 +33,41 @@
         "price":170,
         "description":"Best Choices for Speed. The innovative traction plate ensures quick cuts and acceleration, making it the perfect choice for players who want to dominate the game with their speed.",
         "category":"Shoes"
+    },
+    
+    {
+        "id":5,
+        "image":"https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/3fb5e7ec-c07c-4aed-a134-fae304e831fc/PHANTOM+6+LOW+PRO+FG+EH.png" ,
+        "name":"Nike Phantom 6 Low Pro Erling Haaland",
+        "price":170,
+        "description":"Best Choices for Speed. The innovative traction plate ensures quick cuts and acceleration, making it the perfect choice for players who want to dominate the game with their speed.",
+        "category":"Shoes"
+    },
+
+    {
+        "id":6,
+        "image":"https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/3fb5e7ec-c07c-4aed-a134-fae304e831fc/PHANTOM+6+LOW+PRO+FG+EH.png" ,
+        "name":"Nike Phantom 6 Low Pro Erling Haaland",
+        "price":170,
+        "description":"Best Choices for Speed. The innovative traction plate ensures quick cuts and acceleration, making it the perfect choice for players who want to dominate the game with their speed.",
+        "category":"Shoes"
+    },
+
+    {
+        "id":7,
+        "image":"https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/3fb5e7ec-c07c-4aed-a134-fae304e831fc/PHANTOM+6+LOW+PRO+FG+EH.png" ,
+        "name":"Nike Phantom 6 Low Pro Erling Haaland",
+        "price":170,
+        "description":"Best Choices for Speed. The innovative traction plate ensures quick cuts and acceleration, making it the perfect choice for players who want to dominate the game with their speed.",
+        "category":"Shoes"
+    },
+
+    {
+        "id":8,
+        "image":"https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/3fb5e7ec-c07c-4aed-a134-fae304e831fc/PHANTOM+6+LOW+PRO+FG+EH.png" ,
+        "name":"Nike Phantom 6 Low Pro Erling Haaland",
+        "price":170,
+        "description":"Best Choices for Speed. The innovative traction plate ensures quick cuts and acceleration, making it the perfect choice for players who want to dominate the game with their speed.",
+        "category":"Shoes"
     }
 ]
