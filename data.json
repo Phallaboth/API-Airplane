@@ -10,8 +10,8 @@
 
     {
         "id":2,
-        "image":"https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/68794420-c4ba-49e6-a39f-2357ee240f6e/PHANTOM+6+HIGH+ELITE+FG+SE.png" ,
-        "name":"Nike Mercurial Vapor 16 Elite Vini Jr.",
+        "image":"https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/d3bf2eb5f21544a881638940052b0c51_9366/PREDATOR_ELITE_Fold-Over_Tongue_Firm_Ground_Football_Boots_Beckham_Pink_JI1094_HM1.jpg" ,
+        "name":"PREDATOR ELITE Fold-Over Tongue Firm Ground",
         "price":210,
         "description":"Best Choices for Speed. The innovative traction plate ensures quick cuts and acceleration, making it the perfect choice for players who want to dominate the game with their speed.",
         "category":"Shoes"
@@ -19,8 +19,8 @@
 
     {
         "id":3,
-        "image":"https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/6e0fb36c-12d4-4bcb-be2b-beb36e67b702/LEGEND+10+ELITE+FG.png" ,
-        "name":"Nike Tiempo Legend 10 Elite",
+        "image":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a750d91c48c84b9493767a122d897639_9366/F50_Elite_Son_Laceless_Firm_Ground_Cleats_White_JQ5071_HM1.jpg" ,
+        "name":"F50 Elite Son Laceless Firm Ground Cleats",
         "price":180,
         "description":"Best Choices for Speed. The innovative traction plate ensures quick cuts and acceleration, making it the perfect choice for players who want to dominate the game with their speed.",
         "category":"Shoes"
@@ -37,8 +37,8 @@
 
     {
         "id":5,
-        "image":"https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/16cad69e-65bc-4940-9bb5-1d3bfc9018ae/ZM+SUPERFLY+10+ELITE+KM+FG.png" ,
-        "name":"Nike Phantom 6 Low Pro Erling Haaland",
+        "image":"https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/77deeed9c48642df9c6112a388c5c2ca_9366/Predator_Elite_Firm_Ground_Cleats_White_JI1086_HM1.jpg" ,
+        "name":"Predator Elite Firm Ground Cleats",
         "price":170,
         "description":"Best Choices for Speed. The innovative traction plate ensures quick cuts and acceleration, making it the perfect choice for players who want to dominate the game with their speed.",
         "category":"Shoes"
@@ -46,8 +46,8 @@
 
     {
         "id":6,
-        "image":"https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/022eddd8-fe1e-403c-a6fc-a19f95e2ec48/ZM+SUPERFLY+10+ELITE+FG+LV8.png" ,
-        "name":"Nike Phantom GX 2 Elite Erling Haaland",
+        "image":"https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/08440cd864834a61bcafd51c0a1080c8_9366/Copa_Pure_3_Elite_Firm_Ground_Cleats_Black_JH6304_HM1.jpg" ,
+        "name":"Copa Pure 3 Elite Firm Ground Cleats",
         "price":170,
         "description":"Best Choices for Speed. The innovative traction plate ensures quick cuts and acceleration, making it the perfect choice for players who want to dominate the game with their speed.",
         "category":"Shoes"
@@ -65,7 +65,7 @@
     {
         "id":8,
         "image":"https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/5d3903b7f7264db0b3d0b8de3c91e25f_9366/Predator_League_Jude_Bellingham_Fold-Over_Tongue_Firm-Multi-Ground_Cleats_Black_JS4270_22_model.jpg" ,
-        "name":"Predator League Jude Bellingham",
+        "name":"Nike Phantom 6 Low Pro Erling Haaland",
         "price":170,
         "description":"Best Choices for Speed. The innovative traction plate ensures quick cuts and acceleration, making it the perfect choice for players who want to dominate the game with their speed.",
         "category":"Shoes"
