@@ -15,7 +15,7 @@ fetch("https://phallaboth.github.io/API-Airplane/data.json")
                     </div>           
         `
         
-        document.getElementById("output").innerHTML = show
+        document.getElementById("output").innerHTML = show;
     })
 })
 
